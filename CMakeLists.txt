@@ -5,5 +5,4 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable(RayTracingDemo Test.cpp)
 
-target_link_libraries(RayTracingDemo ${TORCH_LIBRARIES})
 
